@@ -1,0 +1,16 @@
+**/.DS_Store
+**/target/
+**/*.iml
+**/*.ipr
+**/*.iws
+**/.project
+**/.classpath
+**/.settings
+**/generated/
+**/build/
+.idea/
+**/.checkstyle
+checkstyle/pom.xml.releaseBackup
+pom.xml.releaseBackup
+release.properties
+/json_log.log
